@@ -3,6 +3,7 @@
  
  ### Screenshot & Gifs
  
+![stepperSplash](https://user-images.githubusercontent.com/101990722/173667651-1448d568-e6f3-431a-b489-f81c35bd1e31.gif)
 ![image](https://user-images.githubusercontent.com/101990722/173664354-54ddebae-0795-492b-840b-f27290949f56.png)
 ![stepper](https://user-images.githubusercontent.com/101990722/173665095-2e376c44-f892-4ef6-879d-30ada2afd848.gif)
 
