@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adapter-0.2.0">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/JavaFX/materialFX/adapter-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="virtualizedfx-11.2.6.1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/JavaFX/materialFX/virtualizedfx-11.2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
