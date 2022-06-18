@@ -39,7 +39,7 @@ public class Splash extends Application {
 }
 
 /*
-   * rid The name org.a11y.Bus was not provided by any .service files
+   * Rid The name org.a11y.Bus was not provided by any .service files
    *     run: sudo apt install at-spi2-core
 
  */

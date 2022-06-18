@@ -11,6 +11,6 @@
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="adapter-0.2.0" level="project" />
     <orderEntry type="library" name="virtualizedfx-11.2.6.1" level="project" />
-    <orderEntry type="library" name="jfoenix-9.0.10" level="project" />
+    <orderEntry type="library" name="jfoenix-17.0.2" level="project" />
   </component>
 </module>

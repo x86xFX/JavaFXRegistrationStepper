@@ -14,3 +14,7 @@
 .stack-grid-bgColor {
     -fx-background-color:  rgba(0, 0, 0, 0);
 }
+
+.quoteLabel {
+    -fx-font-family: Chilanka;
+}

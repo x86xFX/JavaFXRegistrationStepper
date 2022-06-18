@@ -21,7 +21,7 @@ public class SplashInterfaceController implements Initializable {
         @Override
         public void run(){
             try{
-                Thread.sleep(7); //7520
+                Thread.sleep(7520);
                 Platform.runLater(() -> {
 
                     Registration registration = new Registration();

@@ -21,7 +21,7 @@
 
 <AnchorPane prefHeight="723.0" prefWidth="1042.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.RegistrationController">
    <children>
-      <Pane prefHeight="723.0" prefWidth="1042.0">
+      <Pane prefHeight="723.0" prefWidth="1041.0">
          <children>
             <ImageView pickOnBounds="true" preserveRatio="true">
                <image>
@@ -190,7 +190,7 @@
             </Label>
             <Line endX="107.0" layoutX="637.0" layoutY="629.0" startX="-63.0" stroke="#868686" />
             <Line endX="70.0" layoutX="950.0" layoutY="629.0" startX="-100.0" stroke="#868686" />
-            <Label fx:id="quoteArea" alignment="CENTER" layoutX="573.0" layoutY="218.0" prefHeight="287.0" prefWidth="453.0" text="Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs" textAlignment="CENTER" wrapText="true">
+            <Label fx:id="quoteArea" alignment="CENTER" layoutX="573.0" layoutY="218.0" prefHeight="287.0" prefWidth="453.0" styleClass="quoteLabel" stylesheets="@../css/components.css" text="Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs" textAlignment="CENTER" wrapText="true">
                <font>
                   <Font name="Chilanka Regular" size="19.7" />
                </font>
